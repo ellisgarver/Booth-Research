@@ -1,1 +1,1 @@
-### This is some cool code that I've done over the past couple of years.
+### This is a repository for files relating to undergraduate Booth research.
